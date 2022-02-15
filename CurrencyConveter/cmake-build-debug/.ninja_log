@@ -1,0 +1,14 @@
+# ninja log v5
+398	437	1644950046338859039	onverter	a82729f127c2d985
+1	398	1644950046298592814	CMakeFiles/onverter.dir/main.cpp.o	7bc583b80f8a93c
+1	319	1644950046219430581	CMakeFiles/onverter.dir/exchangeСalculation.cpp.o	ce6640f5e3b106d0
+2	92	1644950045992799908	CMakeFiles/onverter.dir/converterTextFiles.cpp.o	2b01c88a8bca5628
+1	334	1644951034061890036	CMakeFiles/onverter.dir/converterTextFiles.cpp.o	2b01c88a8bca5628
+2	334	1644951034062304651	CMakeFiles/onverter.dir/mainLogicOfConverter.cpp.o	d15d1ea7eff033ee
+0	377	1644951034107627461	CMakeFiles/onverter.dir/main.cpp.o	7bc583b80f8a93c
+2	399	1644951034130054830	CMakeFiles/onverter.dir/workWithFiles.cpp.o	8e52dcd8f812b010
+399	443	1644951034175801796	onverter	6b190070966b376a
+1	353	1644951209744508538	CMakeFiles/onverter.dir/main.cpp.o	7bc583b80f8a93c
+353	393	1644951209785674080	onverter	6b190070966b376a
+1	377	1644951432553055555	CMakeFiles/onverter.dir/main.cpp.o	7bc583b80f8a93c
+377	416	1644951432593941329	onverter	6b190070966b376a

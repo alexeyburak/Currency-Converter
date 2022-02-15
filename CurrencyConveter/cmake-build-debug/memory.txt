@@ -1,0 +1,3 @@
+MEMORY
+
+Deposit amount- 5	Amount received- 9.5

@@ -1,0 +1,3 @@
+/Users/byrak/Сonverter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/byrak/Сonverter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/byrak/Сonverter/cmake-build-debug/CMakeFiles/onverter.dir
