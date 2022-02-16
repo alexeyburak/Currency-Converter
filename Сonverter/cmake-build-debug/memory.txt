@@ -1,0 +1,3 @@
+MEMORY
+
+Deposit amount- 500	Amount received- 1278.95
